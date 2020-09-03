@@ -48,6 +48,7 @@ class App extends React.Component {
     componentDidMount() {
         //同步的
         document.getElementById('qqq').onclick = () => {
+            console.log(1)
             this.setState({
                 name: 666
             })
@@ -66,6 +67,7 @@ class App extends React.Component {
             </button>
             <button onClick={this.minus2}>--</button>
             <h1 onMouseOver={this.over}>{count}</h1>
+            <div id='qqq'>都丰顺</div>
 
         </div>;
 

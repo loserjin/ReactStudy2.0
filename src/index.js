@@ -1,7 +1,6 @@
 // import React from "react";
 // import ReactDOM from 'react-dom';
-// import "./day2.0/3._状态和属性";
-import "./day2.0/4._事件";
+import "./day3.0/1._useState"
 
 // ReactDOM.render(<React.StrictMode>
 //     <functionCon/>
