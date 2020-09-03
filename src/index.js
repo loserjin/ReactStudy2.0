@@ -1,8 +1,8 @@
-// import React from "react";
-// import ReactDOM from 'react-dom';
-import "./day3.0/2._子父组件"
+import React from "react";
+import ReactDOM from 'react-dom';
+import Dialog from "./day3.0/3._dialog"
 
-// ReactDOM.render(<React.StrictMode>
-//     <functionCon/>
-//     </React.StrictMode>,
-//     document.getElementById('#root'));
+ReactDOM.render(<React.StrictMode>
+    <Dialog/>
+    </React.StrictMode>,
+    document.getElementById('root'));
