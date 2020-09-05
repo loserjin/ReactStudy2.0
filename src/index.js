@@ -1,6 +1,6 @@
 // import React from "react";
 // import ReactDOM from 'react-dom';
-import "./day3.0/9._useEffect"
+import "./day3.0/新Content/index"
 
 // ReactDOM.render(<React.StrictMode>
 //     <Dialog/>
