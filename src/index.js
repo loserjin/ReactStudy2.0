@@ -1,8 +1,8 @@
-import React from "react";
-import ReactDOM from 'react-dom';
-import Dialog from "./day3.0/3._dialog"
+// import React from "react";
+// import ReactDOM from 'react-dom';
+import "./day3.0/5._表单"
 
-ReactDOM.render(<React.StrictMode>
-    <Dialog/>
-    </React.StrictMode>,
-    document.getElementById('root'));
+// ReactDOM.render(<React.StrictMode>
+//     <Dialog/>
+//     </React.StrictMode>,
+//     document.getElementById('root'));

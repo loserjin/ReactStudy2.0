@@ -59,7 +59,7 @@ class App extends React.Component {
         return <div className='box'>
             <Button className={className}>百度</Button>
             <Button onClick={this.fn.bind(this)}>淘宝<i>baid</i></Button>
-            <Button onChangeName={this.change}></Button>
+            <Button onChangeName={this.change}>汇编</Button>
             <h1>{name}</h1>
         </div>
     }
